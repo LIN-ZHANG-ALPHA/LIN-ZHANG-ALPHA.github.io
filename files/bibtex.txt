@@ -31,3 +31,19 @@
     pages = {1-19},
     doi = {10.1371/journal.pcbi.1005115}
 }
+
+@article{Dong2013NLR,
+    author = {Liang Dong, Liang Zhao, Bao Wen-xia, Zhang Lin, Guo Cun-shan.},
+    journal = {Journal of systems engineering and electronics},
+    title = {Image Denoising Algorithm Based on Non-local Regularized Sparse Representation.},
+    year = {2013},
+    volume = {35},
+    Issue = {5}
+}
+
+@article{Chen2013,
+    author = {Chen Xiaoning, Zhang Lin, Liu Jianguo, Zhang Tianshu, Yu Guizhou, Fu Wei},
+    journal = {Acta Energiae Solaris Sinica.},
+    title = {Research and Implement of the Automatic Spectrum Collecting System Based on the Sun Tracking.},
+    year = {2013}
+}
