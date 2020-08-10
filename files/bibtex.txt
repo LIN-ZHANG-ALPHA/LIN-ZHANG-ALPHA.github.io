@@ -1,4 +1,12 @@
 
+@inproceedings{zhang2020PIE,
+    author = {  Lin Zhangand Petko Bogdanov},
+    booktitle = {IEEE International Conference on Data Science and Advanced Analytics (DSAA)},
+    title = { Period Estimation For Incomplete Time Series. },
+    year = { 2020 },
+
+}
+
 
 @inproceedings{zhang2019PERCeIDs,
     author = {  Lin Zhang, Alexander Gorovits and Petko Bogdanov},
