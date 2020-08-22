@@ -16,7 +16,13 @@
 
 }
 
-
+@inproceedings{fractals2020,
+  author = { Xiong, Wei and Zhang, Lin and McNeil, Maxwel and Bogdanov, Petko and Zheleva, Mariya},
+  title = {Exploiting Self-Similarity for Under-Determined MIMO Modulation Recognition},
+  year = {2020},
+  booktitle = {IEEE International Conference on Computer Communications (IEEE INFOCOM 2020)},
+  url = {http://www.cs.albany.edu/~mariya/lab/papers/fractals_infocom20.pdf}
+}
 
 
 @inproceedings{zhang2019PERCeIDs,
