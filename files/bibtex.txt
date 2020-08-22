@@ -1,3 +1,12 @@
+@inproceedings{zhang2020LAPIS,
+    author = {  Lin Zhang, Alexander Gorovits, Wenyu Zhang, Petko Bogdanov},
+    booktitle = {IEEE International Conference on Data Mining (ICDM) },
+    title = { Learning period from incomplete multivariate time series},
+    year = { 2020 },
+
+}
+
+
 
 @inproceedings{zhang2020PIE,
     author = {  Lin Zhangand Petko Bogdanov},
